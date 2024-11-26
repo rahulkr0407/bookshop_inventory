@@ -1,0 +1,8 @@
+This program provides an easy-to-use system for managing a small book inventory. It offers basic functionalities like adding, searching, editing, and buying books. 
+It is a simple example of object-oriented programming (OOP) concepts in C++ and could be further enhanced with more features like file handling, input validation, and more sophisticated error handling.
+
+Enter Author Name: J.K. Rowling
+Enter Title Name: Harry Potter
+Enter Publisher Name: Bloomsbury
+Enter Price: 500
+Enter Stock Position: 10
